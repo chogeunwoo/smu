@@ -3,4 +3,5 @@
 
 ## 소스코드 입니다.
 void main(){
+	return true;
 }
