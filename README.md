@@ -1,0 +1,3 @@
+# smu
+void main(){
+}
